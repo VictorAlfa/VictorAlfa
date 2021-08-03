@@ -1,21 +1,24 @@
-### Hi there 👋
+### Hi there 🍻
 
 <h1 align='center'>
   Hi there 👋 I'm Victor 👨‍💻
 </h1>
 
 <p align='center'>
-  A mobile and .net developer student from Rio de Janeiro, Brazil.
+  A .net developer student from Rio de Janeiro, Brazil
 </p>
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/victor-amadeu-santos-512156218/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/victor__alfa/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>        
   </a>&nbsp;&nbsp;
-  </p>
+  <a href="http://api.whatsapp.com/send?1=pt_BR&amp;phone=5521964662041." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+ </p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=victoralfa&show_icons=true&count_private=true&theme=dark" width="350"></a>
