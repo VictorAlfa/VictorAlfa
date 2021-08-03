@@ -21,6 +21,13 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=victoralfa&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+<p align='center'>
+  📫 How to reach me: <a href='mailto:victorosantos@yahoo.com.br'>victorosantos@yahoo.com.br</a>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/victoralfa/victoralfa"></a>
+</p>
+
 <!--
 **VictorAlfa/VictorAlfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
