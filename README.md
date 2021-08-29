@@ -25,6 +25,18 @@
 </p>
 
 <p align='center'>
+    <a href="https://www.credly.com/badges/065b347f-93f2-46b0-b67e-d2215b07ed24/public_url">
+    <img src="https://images.credly.com/size/80x80/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/6fd95301-9dc9-4761-ac10-ca8ddc1a2d2d/public_url">
+    <img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"/>        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/6d652247-62de-4397-ae88-12567c4ce36a/public_url">
+    <img src="https://images.credly.com/size/80x80/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png"/>
+  </a>&nbsp;&nbsp;
+ </p>
+
+<p align='center'>
   📫 How to reach me: <a href='mailto:victorosantos@yahoo.com.br'>victorosantos@yahoo.com.br</a>
 </p>
 <p align='center'>
